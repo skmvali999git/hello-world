@@ -1,0 +1,56 @@
+Qualifications
+¥ Bachelor’s Degree in Engineering or equivalent experience
+¥ 5+ years of experience managing mission-critical online services and monitoring of critical processes and functionality
+¥ Operations tools hands-on experience (not just using but administering Linux servers and contributing to implementing/enhancing tools like Ansible, Chef, Puppet, or SaltStack)
+¥ Hands-on experience in a Linux environment, including Systems Administration, Scripting (Perl/BASH/Python) and supporting Internet Services such as HTTP (Tomcat)
+¥ Strong familiarity with virtualization platforms such as KVM / VMware / Xen
+¥ Experience in deployment and use of both SNMP-based (OpenNMS, etc.) and agent-based (Nagios/Icinga) alerting/monitoring tools
+¥ Hands-on experience with AWS / Azure / OpenStack
+¥ Knowledge of Cloud computing, Web App services, and production SaaS experience a plus
+¥ Creative problem-solver, capable of self-direction
+ 
+
+Ammeon is a services and solutions partner that helps organisations grasp the opportunities presented by emerging technologies and maintain that leading edge. Our end-to-end set of consulting, learning and technology services and solutions enables our customers to derive value from DevOps, Cloud and related fields. We believe the future should never leave our customers behind and we are committed to realising this vision. If this sounds good to you – join us.
+ 
+The OpenStack Deployment Engineer will work on projects for one of our clients who is a global leader in Open Source products. This role involves up to 70% travel in the EU and has the potential to be based remotely when not on site.
+ 
+Job Requirements:
+
+    Planning and deploying OpenStack computing clouds for our customers.
+    Facilitating knowledge transfer to customers during deployment projects.
+    Working with back-end teams to resolve issues and improve our processes.
+    Contributing to the deployment knowledge base.
+    Integrating and implementing supporting technologies such as open source monitoring tools.
+    Executing handoff to the support team upon project completion.
+    This role involves extensive global travel (70%+) and includes the option to be based remotely when not on-site with customers.
+
+Experience Required:
+
+    Solid Linux system administration and troubleshooting skills.
+    Good understanding of networking technologies and protocols.
+    Excellent understanding of Linux Network Stack and associated tools.
+    Experience of working with configuration management frameworks (such as Puppet and Chef).
+    Knowledge of virtualisation platforms (such as KVM, XEN, LXC and VMWare) and understanding of the pros and cons of different types of virtualisation.
+    Extensive scripting and programming experience (using languages such as Shell, Python and Perl).
+    Exposure to OpenStack and/or CloudStack, VMWare vCloud Director or other cloud management frameworks (deployment, configuration, operations).
+
+Desirable Skills:
+
+    Experience with orchestration frameworks for cluster management (such as SaltStack and MCollective).
+    Knowledge of open source storage solutions and distributed file systems.
+    Experience of working with Linux HA stack (Pacemaker, Corosync, Keepalived).
+    Good understanding of network gear and ability to configure switches and routers from different manufacturers.
+    Good understanding of server hardware and experience deploying and configuring servers including IPMI/DRAC/ILO, BIOS and RAID.
+
+Package:
+
+    Competitive salary.
+    Healthcare.
+    Great location in the heart of Dublin city centre.
+    Excellent opportunities to experiment with new technologies.
+    Learning and development opportunities.
+    Staff technical talks.
+    Regular staff competitions. 
+
+Ammeon is an equal opportunities employer. Ammeon reserves the right to request an employee to be flexible in his or her duties when the business needs require it.
+
